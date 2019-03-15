@@ -1,0 +1,27 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "rowTotal": 100,
+    "data": [
+        {
+            "id": 1,
+            "itemId": 1,
+            "shgNo": "1000000000000000",
+            "shgTitle": "科沃斯智能扫地机器人",
+            "shgLab": "特价兑换",
+            "shgImg": "https://img.alicdn.com/bao/uploaded/i2/125341238/O1CN010Bh4vE1L12pC0BpOe_!!0-item_pic.jpg_180x180.jpg",
+            "shgIntegralCurr": 5888,
+            "shgExchangeCount": 199
+        },
+        {
+            "id": 2,
+            "itemId": 1,
+            "shgNo": "1000000000000000",
+            "shgTitle": "科沃斯智能扫地机器人",
+            "shgLab": "特价兑换",
+            "shgImg": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i2/121023161/O1CN01tK18rJ1ZDmSj93KWW_!!0-saturn_solar.jpg_180x180.jpg_.webp",
+            "shgIntegralCurr": 5888,
+            "shgExchangeCount": 199
+        }
+    ]
+}

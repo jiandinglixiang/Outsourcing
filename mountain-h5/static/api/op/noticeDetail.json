@@ -1,0 +1,17 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "id": 1,
+        "itemScope": "0",
+        "itemId": 1,
+        "noSort": "0",
+        "noImg": "https://xxxx/xxx.jpg",
+        "noTitle": "社区公告标题",
+        "noContextHtml": "XXXXXXXXXX",
+        "noStartTime": "2019-02-10 09:00:00",
+        "noEndTime": "2019-02-13 23:59:59",
+        "updateTime": "2019-02-10 16:35:27",
+        "noFrom": "红星集团新闻"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "id": 1,
+        "itemId": 1,
+        "shgNo": "1000000000000000",
+        "shgTitle": "科沃斯智能扫地机器人",
+        "shgLab": "特价兑换",
+        "shgImg": "https://xxxxxx/xxx.jpg",
+        "shgPrice": 1999,
+        "shgIntegral": 6888,
+        "shgIntegralCurr": 5888,
+        "shgContext": "XXXXXXXXXXXX",
+        "shgStoreCount": 99,
+        "shgStartTime": "2019-02-10 09:00:00",
+        "shgEndTime": "2019-02-12 23:59:59",
+        "shgHot": 999,
+        "shgExchangeCount": 199,
+        "updateTime": "2019-02-10 08:30:31",
+        "img": [
+            {
+                "thumImg": "https://xxxxxxx/xxx.jpg",
+                "bigImg": "https://xxxxxxx/xxx.jpg"
+            },
+            {
+                "thumImg": "https://xxxxxxx/xxx.jpg",
+                "bigImg": "https://xxxxxxx/xxx.jpg"
+            }
+        ]
+    }
+}

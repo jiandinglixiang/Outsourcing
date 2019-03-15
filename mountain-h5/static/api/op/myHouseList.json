@@ -1,0 +1,116 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": [
+    {
+      "hoNo": "123123123123",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "127dsgdsg",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1002",
+      "hoCount": 3,
+      "hoUsed": "1"
+    },
+    {
+      "hoNo": "0000000000000000",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "XXXXXX花园小区",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003",
+      "hoCount": 3,
+      "hoUsed": "0"
+    },
+    {
+      "hoNo": "000000000000000123",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "XXXXXX花园小区",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003",
+      "hoCount": 3,
+      "hoUsed": "0"
+    },
+    {
+      "hoNo": "12354",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "XXXXXX花园小区",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003",
+      "hoCount": 3,
+      "hoUsed": "0"
+    },
+    {
+      "hoNo": "000000045676000000000",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "XXXXXX花园小区",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003",
+      "hoCount": 3,
+      "hoUsed": "0"
+    },
+    {
+      "hoNo": "678",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "XXXXXX花园小区",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003",
+      "hoCount": 3,
+      "hoUsed": "0"
+    },
+    {
+      "hoNo": "0000000003450000000",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "XXXXXX花园小区",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003",
+      "hoCount": 3,
+      "hoUsed": "0"
+    },
+    {
+      "hoNo": "234",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "XXXXXX花园小区",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003",
+      "hoCount": 3,
+      "hoUsed": "0"
+    },
+    {
+      "hoNo": "567",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "XXXXXX花园小区",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003",
+      "hoCount": 3,
+      "hoUsed": "0"
+    },
+    {
+      "hoNo": "89",
+      "hoProv": "上海",
+      "hoCity": "上海",
+      "hoItem": "XXXXXX花园小区",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003",
+      "hoCount": 3,
+      "hoUsed": "0"
+    }
+  ]
+}

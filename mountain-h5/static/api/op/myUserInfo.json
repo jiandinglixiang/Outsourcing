@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "uaNo": "9999999999999999",
+    "uaImg": "http://placehold.it/160",
+    "uaNickName": "爱丽丝",
+    "uaRealName": "张三",
+    "uaMobile": "13800000000",
+    "uaSex": "0",
+    "uaHouseholdCount": 3,
+    "uaMyHouseCount": 2,
+    "uaMyHouse": "优胜美地小区1幢1001室"
+  }
+}

@@ -1,0 +1,55 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "rowTotal": 100,
+    "data": [
+        {
+            "id": 1,
+            "itemId": 1,
+            "seoNo": "1000000000000000",
+            "seoTitle": "科沃斯智能扫地机器人",
+            "seoLab": "特价兑换",
+            "seoImg": "http://img62.ddimg.cn/digital/product/71/53/1901107153_ii_cover.jpg?version=d2d33cf4-59d2-4be2-b229-f6db8e3c7ea4",
+            "seoIntegralCurr": 5888,
+            "seoExchangeCount": 199,
+            "seoIntegralType": "0",
+            "updateTime": "2019-02-10 22:30:12"
+        },
+        {
+            "id": 2,
+            "itemId": 1,
+            "seoNo": "1000000000000000",
+            "seoTitle": "科沃斯智能扫地机器人",
+            "seoLab": "特价兑换",
+            "seoImg": "http://img62.ddimg.cn/digital/product/0/67/1901100067_ii_cover.jpg?version=e8734404-01d5-4645-8077-7a2389ce4825",
+            "seoIntegralCurr": 5888,
+            "seoExchangeCount": 199,
+            "seoIntegralType": "0",
+            "updateTime": "2019-02-10 22:30:12"
+        },
+        {
+            "id": 3,
+            "itemId": 1,
+            "seoNo": "1000000000000000",
+            "seoTitle": "科沃斯智能扫地机器人",
+            "seoLab": "特价兑换",
+            "seoImg": "http://img61.ddimg.cn/digital/product/84/41/1900668441_ii_cover.jpg?version=42a4f44b-53c1-4863-970a-ef50dcecf38e555",
+            "seoIntegralCurr": 5888,
+            "seoExchangeCount": 199,
+            "seoIntegralType": "0",
+            "updateTime": "2019-02-10 22:30:12"
+        },
+        {
+            "id": 4,
+            "itemId": 1,
+            "seoNo": "1000000000000000",
+            "seoTitle": "科沃斯智能扫地机器人",
+            "seoLab": "特价兑换",
+            "seoImg": "http://img61.ddimg.cn/digital/product/92/78/1901109278_ii_cover.jpg?version=edc7f0ac-602e-4995-9b55-29d6a09d5069",
+            "seoIntegralCurr": 5888,
+            "seoExchangeCount": 199,
+            "seoIntegralType": "0",
+            "updateTime": "2019-02-10 22:30:12"
+        }
+    ]
+}

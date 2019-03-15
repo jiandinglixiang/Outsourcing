@@ -1,0 +1,1 @@
+export const GET_NOTICE_DETAIL = 'GET_NOTICE_DETAIL';

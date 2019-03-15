@@ -1,0 +1,12 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "id": 1,
+        "itemScope": "0",
+        "itemId": 1,
+        "noSort": "0",
+        "noTitle": "社区公告标题",
+        "noActTemplate": "XXXXXXXXXX"
+    }
+}

@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "rowTotal": 100,
+  "data": [
+    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 100,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "0"
+    },
+    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 200,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "1"
+    },
+    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 200,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "2"
+    },
+    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 200,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "3"
+    },
+    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 200,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "4"
+    },
+    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 200,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "5"
+    },
+    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 200,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "9"
+    },    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 200,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "4"
+    },
+    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 200,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "5"
+    },
+    {
+      "sebNo": "1000000000000000",
+      "sebTitle": "盗墓笔记 上册",
+      "sebImg": "http://placehold.it/152x220",
+      "sebSubTotal": 200,
+      "createTime": "2019-02-10 12:23:05",
+      "wantTime": "2019-02-10 12:23:05",
+      "finalTime": "2019-02-10 12:23:05",
+      "sebFlow": "9"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "rowTotal": 100,
+    "data": [
+        {
+            "integralType": "10",
+            "integralAmount": 200,
+            "integralMemo": "新用户注册",
+            "integralState": "9",
+            "createTime": "2019-02-10 12:23:01"
+        },
+        {
+            "integralType": "10",
+            "integralAmount": 200,
+            "integralMemo": "新用户注册",
+            "integralState": "9",
+            "createTime": "2019-02-10 12:23:01"
+        },
+        {
+            "integralType": "20",
+            "integralAmount": 16,
+            "integralMemo": "长时间未登录",
+            "integralState": "9",
+            "createTime": "2019-02-10 12:23:01"
+        }
+    ]
+}

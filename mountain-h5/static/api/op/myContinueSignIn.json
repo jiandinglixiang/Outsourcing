@@ -1,0 +1,8 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "integralContinueDay": 3,
+        "integralContinueCount": "2,4,6,8,10,12,14"
+    }
+}

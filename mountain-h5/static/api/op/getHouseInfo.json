@@ -1,0 +1,41 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": [
+    {
+      "hoNo": "1000000000000000",
+      "hoItem": "中环1号花园",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1001"
+    },
+    {
+      "hoNo": "1000000000000001",
+      "hoItem": "中环2号花园",
+      "hoBuildNumber": "2",
+      "hoUnit": "1",
+      "hoRoomNumber": "1002"
+    },
+    {
+      "hoNo": "1000000000000003",
+      "hoItem": "中环3号花园",
+      "hoBuildNumber": "3",
+      "hoUnit": "1",
+      "hoRoomNumber": "1003"
+    },
+    {
+      "hoNo": "1000000000000004",
+      "hoItem": "中环4号花园",
+      "hoBuildNumber": "4",
+      "hoUnit": "1",
+      "hoRoomNumber": "1004"
+    },
+    {
+      "hoNo": "1000000000000005",
+      "hoItem": "中环5号花园",
+      "hoBuildNumber": "5",
+      "hoUnit": "1",
+      "hoRoomNumber": "1005"
+    }
+  ]
+}

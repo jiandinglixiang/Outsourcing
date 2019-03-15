@@ -1,0 +1,225 @@
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+}
+.back-icon {
+  width: 9px; height: 15px;
+  background: url("../assets/icon/back.png") no-repeat;
+  background-size: 100% 100%;
+}
+.nav-icon {
+  width: 27px; height: 27px;
+  background: url("../assets/icon/site_nav.png") no-repeat;
+  background-size: 100% 100%;
+}
+.close-icon {
+  background: url("../assets/icon/home.png") no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.hd-close-icon {
+  background: url("../assets/icon/icon_close_white.png") no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.search-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/search.png") no-repeat;
+  background-size: cover;
+}
+.add-blue-icon {
+  background: url("../assets/icon/add_blue.png") no-repeat;
+  background-size: cover;
+}
+.phonebook-icon {
+  background: url("../assets/icon/phonebook.png") no-repeat;
+  background-size: cover;
+}
+.sms-icon {
+  background: url("../assets/icon/sms.png") no-repeat;
+  background-size: cover;
+}
+.service-icon {
+  width: 25px;
+  height: 25px;
+  background: url("../assets/icon/service.png") no-repeat;
+  background-size: cover;
+}
+.bill-icon {
+  width: 25px;
+  height: 25px;
+  background: url("../assets/icon/bill.png") no-repeat;
+  background-size: cover;
+}
+.message-icon {
+  width: 25px;
+  height: 25px;
+  background: url("../assets/icon/message.png") no-repeat;
+  background-size: cover;
+}
+.coin-icon {
+  width: 25px;
+  height: 25px;
+  background: url("../assets/icon/coin.png") no-repeat;
+  background-size: cover;
+}
+.coin-white-icon {
+  width: 18px;
+  height: 18px;
+  background: url("../assets/icon/coin_white.png") no-repeat;
+  background-size: cover;
+}
+.info-icon {
+  width: 25px;
+  height: 25px;
+  background: url("../assets/icon/info.png") no-repeat;
+  background-size: cover;
+}
+.set-icon {
+  width: 25px;
+  height: 25px;
+  background: url("../assets/icon/set.png") no-repeat;
+  background-size: cover;
+}
+.diamond-icon {
+  width: 18px;
+  height: 18px;
+  background: url("../assets/icon/diamond.png") no-repeat;
+  background-size: cover;
+}
+.data-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/date_gray.png") no-repeat;
+  background-size: cover;
+}
+.refresh-icon {
+  width: 16px;
+  height: 16px;
+  background: url("../assets/icon/refresh.png") no-repeat;
+  background-size: cover;
+}
+.addr-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/addr_gray.png") no-repeat;
+  background-size: cover;
+}
+.addr-white-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/addr_white.png") no-repeat;
+  background-size: cover;
+}
+.bulb-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/bulb.png") no-repeat;
+  background-size: cover;
+}
+.close-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/close_bg_gray.png") no-repeat;
+  background-size: cover;
+
+}
+.user-icon {
+  width: 13px;
+  height: 13px;
+  background: url("../assets/icon/user_white.png") no-repeat;
+  background-size: cover;
+}
+.share-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/share.png") no-repeat;
+  background-size: cover;
+}
+.share-white-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/share_white.png") no-repeat;
+  background-size: cover;
+}
+.audio-icon {
+  width: 17px;
+  height: 17px;
+  background: url("../assets/icon/audio.png") no-repeat;
+  background-size: cover;
+}
+.wechat-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/wechat.png") no-repeat;
+  background-size: cover;
+}
+
+.arrow-down-white-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/arrow_down_white.png") no-repeat;
+  background-size: cover;
+}
+.arrow-down-black-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/arrow_down_black.png") no-repeat;
+  background-size: cover;
+}
+.arrow-down-gray-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../assets/icon/arrow_down_gray.png") no-repeat;
+  background-size: cover;
+}
+
+.home-icon:after {
+  background: url("../assets/icon/home.png") no-repeat;
+}
+.qd-icon:after {
+  background: url("../assets/icon/qd.png") no-repeat;
+}
+.wyjf-icon:after {
+  background: url("../assets/icon/wyjf.png") no-repeat;
+}
+.bsbx-icon:after {
+  background: url("../assets/icon/bsbx.png") no-repeat;
+}
+.zxgj-icon:after {
+  /*background: url("../assets/icon/zxgj.png") no-repeat;*/
+}
+.bst-icon:after {
+  /*background: url("../assets/icon/bst.png") no-repeat;*/
+}
+.library-icon:after {
+  background: url("../assets/icon/library.png") no-repeat;
+}
+.fkxt-icon:after {
+  background: url("../assets/icon/fkxt.png") no-repeat;
+}
+.sqgg-icon:after {
+  background: url("../assets/icon/sqgg.png") no-repeat;
+}
+.bmdh-icon:after {
+  background: url("../assets/icon/bmdh.png") no-repeat;
+}
+.jf-icon:after {
+  background: url("../assets/icon/jf.png") no-repeat;
+}
+.jfsc-icon:after {
+  background: url("../assets/icon/jfsc.png") no-repeat;
+}
+.fw-icon:after {
+  background: url("../assets/icon/fw.png") no-repeat;
+}
+.msg-icon:after {
+  background: url("../assets/icon/msg.png") no-repeat;
+}
+.wjdc-icon:after {
+  background: url("../assets/icon/wjdc.png") no-repeat;
+}
+.gxkj-icon:after {
+  background: url("../assets/icon/gxkj.png") no-repeat;
+}

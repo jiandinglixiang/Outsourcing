@@ -1,0 +1,32 @@
+[
+    {
+        "title": "姓名",
+        "type": "text",
+        "name": "realName",
+        "value": "三少"
+    },
+    {
+        "title": "手机号码",
+        "type": "text",
+        "name": "mobile",
+        "value": "15821088888"
+    },
+    {
+        "title": "称谓",
+        "type": "radio",
+        "name": "sex",
+        "value": "0"
+    },
+    {
+        "title": "出生日期",
+        "type": "date",
+        "name": "birthday",
+        "value": "1986-01-01"
+    },
+    {
+        "title": "房源信息",
+        "type": "house",
+        "name": "houseNo",
+        "value": "1910001234567890"
+    }
+]

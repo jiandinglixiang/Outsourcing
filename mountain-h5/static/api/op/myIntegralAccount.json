@@ -1,0 +1,8 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "integral": 1000,
+        "integralLock": "200"
+    }
+}

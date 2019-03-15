@@ -1,0 +1,37 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "shoNo": "1000000000000000",
+    "shgNo": "1234567890123456",
+    "uaNo": "9999999999999999",
+    "shoTitle": "XXXXXXXXXXXXXXXXX",
+    "shoImg": "http://placehold.it/152x220",
+    "shoStoreCount": 1,
+    "shoSubTotal": 1000,
+    "shoName": "张三",
+    "shoPhone": "13800000000",
+    "shoAddress": "XXXXXXXXXXXXXXXX",
+    "shoDelivery": "2019-02-10",
+    "shoItemPhone": "021-00000000",
+    "shoMemo": "请在下午2点后送货",
+    "shoDeliveryState": "0",
+    "shoPayState": "1",
+    "shoState": "0",
+    "createTime": "2019-02-10 12:23:05",
+    "track": [
+      {
+        "shtTitle": "兑换成功",
+        "shtMemo": "用户已使用积分成功兑换",
+        "shtOperator": "系统",
+        "createTime": "2019-02-10 20:15:31"
+      },
+      {
+        "shtTitle": "提交订单",
+        "shtMemo": "用户已成功下单",
+        "shtOperator": "系统",
+        "createTime": "2019-02-10 20:15:31"
+      }
+    ]
+  }
+}

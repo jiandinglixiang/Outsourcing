@@ -1,0 +1,41 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "sebNo": "1000000000000000",
+    "seoNo": "1000000000000000",
+    "seoTitle": "盗墓笔记 上册",
+    "seoImg": "http://placehold.it/152x220",
+    "seoTime": "2019-02-10 12:20:25",
+    "seoExchangeCount": 99,
+    "uaNo": "9999999999999999",
+    "sebName": "张三",
+    "sebPhone": "13800000000",
+    "sebAddress": "XXXXXXXXXXXXXXXX",
+    "sebDelivery": "2019-02-10",
+    "sebItemPhone": "021-00000000",
+    "sebDeliveryState": "0",
+    "sebIntegralType": "0",
+    "sebMemo": "XXXXXXXXXXXXXXXXX",
+    "sebPayState": "0",
+    "sebFlow": "0",
+    "sebSubTotal": 200,
+    "createTime": "2019-02-10 00:00:00",
+    "wantTime": "2019-02-10 00:00:00",
+    "finalTime": "2019-02-10 00:00:00",
+    "track": [
+      {
+        "seitTitle": "兑换成功",
+        "seitMemo": "用户已使用积分成功兑换",
+        "seitOperator": "系统",
+        "createTime": "2019-02-10 20:15:31"
+      },
+      {
+        "seitTitle": "提交订单",
+        "seitMemo": "用户已成功下单",
+        "seitOperator": "系统",
+        "createTime": "2019-02-10 20:15:31"
+      }
+    ]
+  }
+}

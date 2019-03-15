@@ -1,0 +1,31 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": [
+        {
+            "rotImg": "https://img.alicdn.com/imgextra/i3/116779516/O1CN01x4JtzI2KANSWQIcHc_!!0-saturn_solar.jpg_200x200.jpg",
+            "rotUrl": "http://www.kjson.com/",
+            "rotTitle": "广告A"
+        },
+        {
+            "rotImg": "https://img.alicdn.com/imgextra/i1/57679257/O1CN01EXTdxq2IFksSNSXf4_!!0-saturn_solar.jpg_200x200.jpg",
+            "rotUrl": "http://www.kjson.com/",
+            "rotTitle": "广告B"
+        },
+        {
+            "rotImg": "https://img.alicdn.com/imgextra/i3/57679257/O1CN01sPn1D42IFksSfW53s_!!0-saturn_solar.jpg_200x200.jpg",
+            "rotUrl": "http://www.kjson.com/",
+            "rotTitle": "广告C"
+        },
+        {
+            "rotImg": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/282229213/TB2bvHOXbnA11Bjy0FjXXapoFXa_!!282229213.jpg_180x180.jpg_.webp",
+            "rotUrl": "http://www.kjson.com/",
+            "rotTitle": "广告D"
+        },
+        {
+            "rotImg": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2031278649/O1CN01enHNrN2DlI4JXct5o_!!0-item_pic.jpg_180x180.jpg_.webp",
+            "rotUrl": "http://www.kjson.com/",
+            "rotTitle": "广告E"
+        }
+    ]
+}

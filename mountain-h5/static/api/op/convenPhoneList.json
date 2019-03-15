@@ -1,0 +1,52 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "rowTotal": 100,
+    "data": [
+        {
+            "id": 1,
+            "itemScope": "0",
+            "itemId": 1,
+            "copType": "0",
+            "copTitle": "XXXX服务电话",
+            "copImg": "https://img.alicdn.com/bao/uploaded/i1/TB1U0nEKFXXXXchXVXXXXXXXXXX_!!0-item_pic.jpg_100x100q90.jpg_.webp",
+            "copPhone": "021-88888888"
+        },
+        {
+            "id": 2,
+            "itemScope": "0",
+            "itemId": 1,
+            "copType": "0",
+            "copTitle": "XXXX服务电话",
+            "copImg": "https://img.alicdn.com/bao/uploaded/i1/TB1U0nEKFXXXXchXVXXXXXXXXXX_!!0-item_pic.jpg_100x100q90.jpg_.webp",
+            "copPhone": "021-88888888"
+        },
+        {
+            "id": 3,
+            "itemScope": "0",
+            "itemId": 1,
+            "copType": "0",
+            "copTitle": "XXXX服务电话",
+            "copImg": "https://img.alicdn.com/bao/uploaded/i1/TB1U0nEKFXXXXchXVXXXXXXXXXX_!!0-item_pic.jpg_100x100q90.jpg_.webp",
+            "copPhone": "021-88888888"
+        },
+        {
+            "id": 4,
+            "itemScope": "1",
+            "itemId": 1,
+            "copType": "1",
+            "copTitle": "物业服务电话",
+            "copImg": "https://img.alicdn.com/bao/uploaded/i1/TB1U0nEKFXXXXchXVXXXXXXXXXX_!!0-item_pic.jpg_100x100q90.jpg_.webp",
+            "copPhone": "021-88888888"
+        },
+        {
+            "id": 5,
+            "itemScope": "1",
+            "itemId": 1,
+            "copType": "1",
+            "copTitle": "物业服务电话",
+            "copImg": "https://img.alicdn.com/bao/uploaded/i1/TB1U0nEKFXXXXchXVXXXXXXXXXX_!!0-item_pic.jpg_100x100q90.jpg_.webp",
+            "copPhone": "021-88888888"
+        }
+    ]
+}

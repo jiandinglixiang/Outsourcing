@@ -1,0 +1,29 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "id": 1,
+        "itemId": 1,
+        "seoNo": "1000000000000000",
+        "seoTitle": "科沃斯智能扫地机器人",
+        "seoLab": "特价兑换",
+        "seoImg": "http://img62.ddimg.cn/digital/product/0/67/1901100067_ii_cover.jpg?version=e8734404-01d5-4645-8077-7a2389ce4825",
+        "seoContext": "XXXXXXXXXXXXXXXXX",
+        "seoStoreCount": 99,
+        "seoHot": 288,
+        "seoIntegralCurr": 5888,
+        "seoIntegralType": "0",
+        "seoExchangeCount": 199,
+        "updateTime": "2019-02-10 22:30:12",
+        "img": [
+            {
+                "thumImg": "http://img61.ddimg.cn/digital/product/92/78/1901109278_ii_cover.jpg?version=edc7f0ac-602e-4995-9b55-29d6a09d5069",
+                "bigImg": "http://img62.ddimg.cn/digital/product/0/67/1901100067_ii_cover.jpg?version=e8734404-01d5-4645-8077-7a2389ce4825"
+            },
+            {
+                "thumImg": "http://img61.ddimg.cn/digital/product/92/78/1901109278_ii_cover.jpg?version=edc7f0ac-602e-4995-9b55-29d6a09d5069",
+                "bigImg": "http://img62.ddimg.cn/digital/product/0/67/1901100067_ii_cover.jpg?version=e8734404-01d5-4645-8077-7a2389ce4825"
+            }
+        ]
+    }
+}
